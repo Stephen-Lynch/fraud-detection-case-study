@@ -1,0 +1,10 @@
+
+*.pyc
+.idea
+.ipynb_checkpoints
+*.bak
+*.swp
+*.json
+*.zip
+__pycache__/
+*.DS_Store
