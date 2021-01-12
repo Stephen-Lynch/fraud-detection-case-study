@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> new-heroku-server
 *.pyc
 .idea
 .ipynb_checkpoints
@@ -7,4 +10,8 @@
 *.json
 *.zip
 __pycache__/
+<<<<<<< HEAD
 *.DS_Store
+=======
+*.DS_Store
+>>>>>>> new-heroku-server
